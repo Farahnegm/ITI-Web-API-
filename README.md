@@ -1,10 +1,11 @@
-ITI Web API Project
-Description
+# Web API project
+
+## 📋 Description
 This project was created as part of an ITI database training, focusing on managing a complete academic system that includes students, instructors, departments, and courses. It handles complex relationships between these entities and provides a structured API to access and manipulate the data effectively.
 
 The main goal of the project is to demonstrate real-world database operations, applying best practices in API development, clean architecture, and design patterns.
 
-Key Technologies and Methodologies Used:
+## Key Technologies and Methodologies Used:
 Entity Framework Core for database interactions
 
 Swagger for API documentation and testing
@@ -17,7 +18,7 @@ Pagination to handle large datasets efficiently
 
 This project serves as a strong foundation that I plan to expand and improve over time, adding more advanced features and optimizations.
 
-✨ Features
+##✨ Features
 Full Academic Management System
 Manage students, instructors, departments, and courses with full CRUD operations.
 
@@ -48,7 +49,7 @@ Designed with future updates and feature expansions in mind.
 Secure and Clean Architecture
 Follows best practices to ensure a secure, clean, and organized code structure.
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 .NET Core 9.0 – Backend framework for building scalable Web APIs
 
 Entity Framework Core – ORM for database management and complex querying
